@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&family=Patrick+Hand&family=Trispace&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arimo&family=Gloria+Hallelujah&family=Patrick+Hand&family=Trispace&display=swap');
+
+body{
+    background-color: rgb(207, 149, 121);
+    font-family: 'Arimo', sans-serif;
+}   
+.container{
+    text-align: center;
+    width: 400px;
+    margin: auto;
+    background-color: rgb(235, 118, 102);
+}
+input,label{
+    display: block;
+
+    padding: 0.5rem;
+}
+input {
+    margin: auto;
+    margin-bottom: 0.5rem;
+    width: 80%;
+  }
+button{
+    margin: 1rem 1rem;
+    padding: 0.5rem;
+    width: 50%;
+    background-color: rgb(252, 85, 63);
+}
